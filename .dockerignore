@@ -1,0 +1,14 @@
+.git
+.github
+.idea
+.vscode
+.agents
+.codex
+.env
+.env.*
+**/.env
+**/.env.*
+target
+deploy
+*.log
+*.md
